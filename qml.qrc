@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>modules/Welcome.qml</file>
+        <file>modules/Tips_rect.qml</file>
+    </qresource>
+</RCC>

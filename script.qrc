@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>script/mainScript.js</file>
+    </qresource>
+</RCC>
